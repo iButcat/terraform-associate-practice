@@ -1,0 +1,11 @@
+# Replace with your actual Google Cloud Project ID
+project_id = "your-project-id"
+
+# Customize regions and zones as needed
+region = "us-central1"
+zone   = "us-central1-a"
+
+# VPC and subnet CIDR blocks
+vpc_cidr_block         = "10.0.0.0/16"
+main_subnet_cidr_block = "10.0.1.0/24"
+sec_subnet_cidr_block  = "10.0.2.0/24" 

@@ -1,0 +1,9 @@
+# Example of a partial backend configuration file
+# Rename to terraform.tfbackend and update with your values
+# Then use: terraform init -backend-config=terraform.tfbackend
+
+bucket         = "REPLACE_WITH_YOUR_BUCKET_NAME"
+key            = "terraform/state/exercise-4"
+region         = "us-east-1"
+dynamodb_table = "terraform-state-locks"
+encrypt        = true 
