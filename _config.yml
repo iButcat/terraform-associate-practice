@@ -6,6 +6,6 @@ description: Comprehensive hands-on exercises for Terraform Associate certificat
 show_downloads: true
 github:
   is_project_page: true
-  repository_url: https://github.com/yourusername/terraform-certification-labs
-  zip_url: https://github.com/yourusername/terraform-certification-labs/archive/main.zip
-  tar_url: https://github.com/yourusername/terraform-certification-labs/archive/main.tar.gz 
+  repository_url: https://github.com/iButcat/terraform-certification-labs
+  zip_url: https://github.com/iButcat/terraform-certification-labs/archive/main.zip
+  tar_url: https://github.com/iButcat/terraform-certification-labs/archive/main.tar.gz 
