@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Terraform Certification Labs
+# Terraform Associate Practice
 
-Welcome to the Terraform Certification Labs project! This comprehensive resource is designed to help you prepare for the Terraform Associate certification with hands-on exercises across multiple cloud providers.
+Welcome to the Terraform Associate Practice project! This comprehensive resource is designed to help you prepare for the Terraform Associate certification with hands-on exercises across multiple cloud providers.
 
 ## What's Included
 
